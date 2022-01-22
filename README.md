@@ -5,8 +5,7 @@
 * 支持存储自定义文件,目录及账号密码均为AUUID,客户端务必使用TLS连接  
   
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/
-
-xiaobaixuexi076/kuhero)
+oyrxfcgvh/kuhero)
 ### 服务端
 点击上面紫色`Deploy to Heroku`，会跳转到heroku app创建页面，填上app的名字、选择节点、按需修改部分参数和AUUID后点击下面deploy创建app即可开始部署  
 如出现错误，可以多尝试几次，待部署完成后页面底部会显示Your app was successfully deployed  
